@@ -1,6 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f0b50b52-d688-4312-a993-8f43cb925d59/deploy-status)](https://app.netlify.com/sites/stake-finance/deploys)
 
-
-# Stake Finance Frontend DApp
+# Stakeance Frontend DApp
 
 Our simple front-end used to interact with Stake. This front-end describes Stake finance and consolidates relevant links to onboard users onto the protocol's basic functionalities. It also allows users to stake, unstake, and claim STAKE tokens during the initial distribution + liquidity mining phase of the protocol's launch.
 
