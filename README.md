@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f0b50b52-d688-4312-a993-8f43cb925d59/deploy-status)](https://app.netlify.com/sites/stake-finance/deploys)
+
 
 # Stakeance Frontend DApp
 
